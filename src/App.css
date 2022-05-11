@@ -1,0 +1,82 @@
+.App{
+  position: relative;
+  width: 1512px;
+  height: 982px;
+
+  background: #F9F0DE;
+}
+.Apptitle{
+  position: absolute;
+  width: 693px;
+  height: 22px;
+  left: 410px;
+  top: 213px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 61px;
+
+  color: #000000;
+
+
+}
+.Apptitle1{
+  position: absolute;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  /* identical to box height */
+
+
+  color: #316C85;
+
+}
+.Apptitle2{
+  position: absolute;
+  width: 353px;
+  height: 44px;
+  left: 579px;
+  top: 293px;
+  
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 37px;
+  line-height: 50px;
+  
+  color: #316C85;
+}
+
+.Appimg1{
+  position: absolute;
+  width: 244px;
+  height: 260px;
+  left: 617px;
+  top: 402px;
+}
+.Apptxt1{
+  
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+.Appbtn1{
+  position: absolute;
+  width: 182.9px;
+  height: 42px;
+  left: 649px;
+  top: 737px;
+
+  background: #316C85;
+  border-radius: 3px
+}

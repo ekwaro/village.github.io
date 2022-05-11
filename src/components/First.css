@@ -1,0 +1,442 @@
+.Firstcontainer{
+    position: relative;
+    width: 1512px;
+    height: 982px;
+    /* Accent */  
+    background: #F9F0DE;
+
+}
+.Firstdashboard{ 
+    position: absolute;
+    width: 396px;
+    height: 982px;
+    left: 0px;
+    top: 0px;
+
+    background: #316C85;
+}
+.Firsthdashboard{
+position: absolute;
+width: 204px;
+height: 44px;
+left: 38px;
+top: 45px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 34px;
+
+color: #FFFFFF;
+}
+.Firsth2dashboard{
+position: absolute;
+width: 336px;
+height: 22px;
+left: 39px;
+top: 76px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.6);
+
+}
+.Firstdashboardlink{
+position: absolute;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 33px;
+
+/* Accent */
+
+color: #F9F0DE;
+}
+.Firstbutton{
+position:absolute;  
+background: #FFFFFF;
+border-radius: 20px;
+}
+.Firstpara{
+position: absolute;
+width: 342px;
+height: 48px;
+left: 27px;
+top: 900px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+}
+.Dashboardinput{
+position: absolute;
+width: 1026px;
+height: 89px;
+left: 436px;
+top: 25px;
+
+background: #FFFFFF;
+border-radius: 35px;
+}
+.Dashboardoverview{
+    position: absolute;
+    width: 147px;
+    height: 58px;
+    left: 494px;
+    
+    
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    
+    color: #000000;   
+}
+.Dashboardoverviewdesc{
+position: absolute;
+width: 320px;
+height: 39px;
+left: 494px;
+top: 191px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.Dashboardcontent{
+position: absolute;
+width: 277.04px;
+height: 131.97px;
+
+background: #FFFFFF;
+border-radius: 18px;
+}
+.line{
+position: absolute;
+width: 277.06px;
+height: 0px;
+left: 0px;
+top: 70.64px;
+border: 1px solid rgba(34, 34, 34, 0.2);
+}
+.linetext{
+position: absolute;
+width: 69.26px;
+height: 20.18px;
+left: 84.15px;
+top: 34.16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #316C85;
+}
+.linetxtbelow{
+position: absolute;
+width: 181.7px;
+height: 12.42px;
+left: 30.21px;
+top: 97.82px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 14px;
+
+color: #000000;
+
+}
+.linetxtabove{
+position: absolute;
+width: 181.7px;
+height: 12.42px;
+left: 30.68px;
+top: 86.72px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #316C85;
+}
+.Residentstable{
+position: absolute;
+width: 904px;
+height: 293px;
+left: 497px;
+top: 637px;
+padding-bottom: 5px;
+
+background: #FFFFFF;
+border-radius: 8px;
+}
+.Residentfields{
+position: absolute;
+width: 22px;
+height: 22px;
+top: 30px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+
+color: #316C85;
+}
+.Dasboardsettings{
+position: absolute;
+width: 67px;
+height: 19px;
+top: 55px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+
+color: rgba(34, 34, 34, 0.8);
+
+}
+.profilepic{
+box-sizing: border-box;
+position: absolute;
+width: 45px;
+height: 48px;
+left: 948px;
+top: 18px;
+border: 2px solid #FFFFFF;
+border-radius: 500px;
+}
+/* Styling the forms css in the registry file*/
+
+.Registryheader{
+position: absolute;
+width: 353px;
+height: 44px;
+left: 206px;
+top: 161px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 900;
+font-size: 37px;
+line-height: 50px;
+color: #316C85;
+}
+.Registrysubheader{
+    position: absolute;
+width: 276px;
+height: 28px;
+left: 206px;
+top: 206px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #316C85;
+}
+.helpbuttontxt{
+position: absolute;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+
+color: #FFFFFF;
+}
+.helpbutton{
+position: absolute;
+width: 97px;
+height: 31px;
+left: 206px;
+top: 790px;
+
+background: #10AA85;
+border-radius: 3px;
+}
+.safemode{ 
+position: absolute;
+width: 135px;
+height: 31px;
+left: 327px;
+top: 790px;
+
+background: #316C85;
+border-radius: 3px;
+}
+.regdiv{
+position: absolute;
+width: 547px;
+height: 660px;
+left: 773px;
+top: 161px;
+
+background: #FFFFFF;
+border-radius: 18px;
+
+}
+.regdivheader1{
+position: absolute;
+width: 297px;
+height: 39px;
+left: 64px;
+top: 73px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+
+color: #316C85;
+
+}
+.regdivheader2{    
+position: absolute;
+width: 117px;
+height: 19px;
+left: 64px;
+top: 113px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #2196F3;
+}
+.regdivheader1btn{
+position: absolute;
+width: 142.86px;
+height: 40px;
+left: 354px;
+top: 78px;
+border: 1px solid #316C85;
+border-radius: 7px
+
+}
+.loginheader2{
+    
+position: absolute;
+width: 400px;
+height: 26px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #C4C4C4;
+
+}
+.inputfieldlabel{
+    
+position: absolute;
+width: 87.24px;
+height: 16.24px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.inputfield{
+box-sizing: border-box;
+position: absolute;
+width: 206.83px;
+height: 40px;
+background: #FBFBFB;
+border: 1px solid #DCD6D6;
+border-radius: 3px;
+}
+.inputnxtbtn{
+position: absolute;
+width: 310.13px;
+height: 60.32px;
+background: #316C85;
+border-radius: 7px;
+}
+.forgotpassword{
+position: absolute;
+width: 103.68px;
+height: 17.74px;
+left: 95px;
+top: 353.11px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+text-decoration-line: underline;
+
+color: rgba(33, 150, 243, 0.9);
+
+}
+.remember{
+    /* Remember me on this computer */
+position: absolute;
+width: 222.22px;
+height: 17.74px;
+left: 168.06px;
+top: 414.43px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #222222;
+}
+.check{
+position: absolute;
+width: 13.43px;
+height: 10.65px;
+left: 149.75px;
+top: 417.98px;
+
+}
