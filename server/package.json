@@ -1,0 +1,27 @@
+{
+  "name": "Village-Register-app",
+  "version": "1.0.0",
+  "description": "This is village register app",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "nodemon index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dominic",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "firebase-admin": "^11.0.0",
+    "mongoose": "^6.3.8",
+    "nodemailer": "^6.7.7",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "@babel/plugin-syntax-import-assertions": "^7.18.6"
+  }
+}

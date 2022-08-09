@@ -1,0 +1,13 @@
+
+{
+  "type": "service_account", 
+  "project_id": "village-register",
+  "private_key_id": "2df299b1bacf1eb0813533c9ec92ea7f7c824660",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDEib33CikVGmG6\nuYDXVFNfHvDCjoz9UTFQywViUNGgIaYnHHHkNovh2SyMVkFDRR+Ge17eZN9lwO9U\nnA1UM7U/ybpQMUfFbd27ZOdUxOTmln9onObEA0tmC8NwcXPi6abFH+bCOJIpRNHz\nT1az5Kka5OTT7b9JCNXHiTYfLZ8dJOr9EYX5AXukcwsCSvMnnsGvelIU8rK5Idz8\nJnV+eRSv+FOl7ZYbf08eq0dWn+Jb+IDL9fAjb8D/v/XzHYezh3if3EtcVs2a53l3\nz+1aB3Y9piw0J0Ro5cdCMaI/Gl1OhcE0b4HNB9D7u7a4mNyvNBpLNiiMSa6vkqsb\nZjuSRIVDAgMBAAECggEAKZUjFiOWMZrVVpZtBiIXSabYNbHHbslA7+EkkHqc/45f\nAyNnjWtlCTHT1RVi1YLIesGbft5EzdiWSoaB43DVRlu+Cb2De+gU49MjhrHp5Eev\nSUj5Iju4Ni0C+sVmSXo6CLcJMcqaUhT3fs0ogQM+LCyFpblFoYQ3BvKm+s3CPn3z\ngDhmCuqJBTYKpZE4V4qh3lCggQqNPEC8Br8X/GYMhgEx/slQBP7P2g2qDFdFvhKK\nTSvuDgmeGro4bO3iE9GLTXsiELERm52oM0FLW/WztQo7oPnmvx+Xm1yfqOyBvfl6\n639J52dSawwFoDcdmUxFb1g0co2c5R/qWmApmSoPMQKBgQD9k14LeMGagYp++Ew1\nqlZz8jF7oriTNqxWeKTC1pb3zrW+VbCYboAhqKmsfk1BFS95HIBM+WAiV/SMOeZu\nXfnAuYf0rG2PshLbJ8B8hdPxAcwx0qIYYptp11UtthwIdnTztstBmmhWr5WjFO/g\nmE5kSkQ6zXoPjMQJssSH2eK59wKBgQDGasYVc0c6iT6VpY/bRg/RzVZypPquW2Sl\nSBxc0JxYQQxgqK+gsXx8IcCwaLYkE5C2dL6m7mWBG/REe2W3aj0NxJvoSPsIuZ4C\ni/+pmJ8zD/LtSYcY4OqRgDMP4ucFAOs7zeAd9KPy7JQ/gGuLkmBcnZ+zbVEXIMxZ\nzlmgDT3cFQKBgQCHLpsCTpwXvFuTGNe3/Fkecs1CdhskEA+MAcEERdYxwbdOAuyk\nNrSEPSBHXwXcXmjyjekwH/nKFU2/u9ZGnD7bKY17OLkn0+0NfIG3YLj+UNEE9p+H\nlHn50NwOBHmpYU0z6A0vqhtZqz2AtVa0Sz3vZVA+cPBTfd28tdrj+ZpPPQKBgQCb\njMVxt4gVudaYlszqiEiKn8Gv6uqjmf6THK8vjFOlVImRlWzqO3puDj/zjIOOUNBY\nWbnFQIvO5c1fiqW5Xs4yZvoa5mv28R2QvZRWrtHPxCccI1KIDHuYSbq+L5IQ+CFy\nJvoWQd3t6c5m4hRtvPlSYjf7AC5cRVgu53iX4wml6QKBgQChwDr8PBHOKrtfdknW\nxz35tzPGyK23lu0gz1RNTktOgPbtYYi2E84fhZ1NF4NKtCbD0vbryPJHIusi1cE9\n8/9OpvaxxXnwmTEF80La88LdvCvZYU4e9xoaEX5W3rGdUh0dbb7s6pppxilMb2NV\n9rS8cqXinoLlrHHRpRXcfVXFWw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-w84db@village-register.iam.gserviceaccount.com",
+  "client_id": "114134973818068244036",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-w84db%40village-register.iam.gserviceaccount.com"
+}

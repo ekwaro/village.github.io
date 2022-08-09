@@ -1,3 +1,7 @@
+.paginateContainer{
+    display: flex;
+    
+}
 .Firstcontainer{
     position: relative;
     width: 1512px;
@@ -15,6 +19,7 @@
 
     background: #316C85;
 }
+
 .Firsthdashboard{
 position: absolute;
 width: 204px;
@@ -57,15 +62,17 @@ font-style: normal;
 font-weight: 400;
 font-size: 28px;
 line-height: 33px;
-
+background: #316C85;
+border: none;
 /* Accent */
 
 color: #F9F0DE;
 }
 .Firstbutton{
 position:absolute;  
-background: #FFFFFF;
+background: #F9F0DE;
 border-radius: 20px;
+border: none;
 }
 .Firstpara{
 position: absolute;
@@ -96,7 +103,7 @@ border-radius: 35px;
 }
 .Dashboardoverview{
     position: absolute;
-    width: 147px;
+    width: 247px;
     height: 58px;
     left: 494px;
     
@@ -321,7 +328,7 @@ left: 64px;
 top: 73px;
 
 font-family: 'Inter';
-font-style: normal;
+font-style: 'bold';
 font-weight: 700;
 font-size: 22px;
 line-height: 27px;
@@ -386,7 +393,7 @@ color: #000000;
 .inputfield{
 box-sizing: border-box;
 position: absolute;
-width: 206.83px;
+width: 218px;
 height: 40px;
 background: #FBFBFB;
 border: 1px solid #DCD6D6;
@@ -421,8 +428,6 @@ color: rgba(33, 150, 243, 0.9);
 position: absolute;
 width: 222.22px;
 height: 17.74px;
-left: 168.06px;
-top: 414.43px;
 
 font-family: 'Inter';
 font-style: normal;
@@ -436,7 +441,633 @@ color: #222222;
 position: absolute;
 width: 13.43px;
 height: 10.65px;
-left: 149.75px;
-top: 417.98px;
 
+}
+.regformframe{
+    position: absolute;
+    width: 1016px;
+    height: 705px;
+    left: 446px;
+    top: 242px;
+
+    background: #FFFFFF;
+    border-radius: 36px;
+}
+.photo{
+position: absolute;
+width: 84px;
+height: 100px;
+
+top: 67px;
+border-radius: 12px;
+}
+.submitbtn{
+    position: absolute;
+width: 142.86px;
+height: 40px;
+
+background: #316C85;
+border-radius: 7px;
+}
+.paragraph2{
+position: absolute;
+width: 247.49px;
+height: 39.28px;
+left: 48px;
+top: 299px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #316C85;
+
+}
+.idheader{
+    position: absolute;
+width: 124px;
+height: 19px;
+left: 717px;
+top: 35px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+color: #316C85;
+
+}
+.idframe{
+box-sizing: border-box;
+position: absolute;
+height: 217.84px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+}
+.idcardframeh1{
+
+position: absolute;
+width: 178.23px;
+height: 27.23px;
+font-family: 'Open Sans Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 15px;
+
+color: #000000;
+
+}
+.idmoto{
+position: absolute;
+width: 169.57px;
+height: 18.57px;
+font-family: 'Open Sans Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 90.18%;
+/* or 8px */
+
+text-align: center;
+
+color: #316C85;
+
+}
+.idlabel{
+position: absolute;
+width: 40.84px;
+height: 12.38px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 7px;
+line-height: 10px;
+letter-spacing: 0.06em;
+
+color: #000000;
+
+}
+.idvalue{
+    
+position: absolute;
+width: 90.35px;
+height: 14.85px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 9px;
+line-height: 12px;
+
+color: #000000;
+}
+.imgaccount{
+box-sizing: border-box;
+position: absolute;
+width: 163px;
+height: 163px;
+left: 372px;
+top: -80px;
+border: 1px solid #F9F0DE;
+border-radius: 79px;
+}
+.accounth1{
+position: absolute;
+width: 227px;
+height: 38px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+
+color: #316C85;
+}
+.idlabel2{
+position: absolute;
+width: 139px;
+height: 33px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+}
+.idvalue2{
+    position: absolute;
+width: 149px;
+height: 30px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.accountline{
+    position: absolute;
+width: 357px;
+height: 0px;
+border: 1px solid rgba(193, 197, 199, 0.31);
+transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.imgrelatedframe{
+ box-sizing: border-box;
+position: absolute;
+width: 63px;
+height: 63px;
+
+border: 0.5px solid #000000;
+border-radius: 15px;
+}
+.idforresident{  
+box-sizing: border-box;
+position: absolute;
+width: 336px;
+height: 196px;
+left: 525px;
+top: 189px;
+
+background: #FFFFFF;
+border: 0.5px solid #CCC4C4;
+}
+
+.idlabelresident{
+    position: absolute;
+    width: 178px;
+    height: 14px;
+       
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    
+    color: #000000;
+}
+.idvalueresident{
+position: absolute;
+width: 178px;
+height: 21px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+
+color: #000000;
+}
+.idbtns{
+position: absolute;
+width: 103.11px;
+height: 25.17px;
+color: white;
+border-radius: 7px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 11px;
+}
+.classifyresidentstype{
+position: absolute;
+width: 201px;
+top:285px;
+left:494px;
+height: 114px;
+background: #FFFFFF;
+border-radius: 8px;
+}
+.classifyresidentsframe{
+position: absolute;
+width: '';
+height: 100%;
+top:'171px';
+left:'396px';
+background: #E5E5E5;
+
+
+}
+.classifyresidentstext{
+position: absolute;
+width: 178px;
+height: 20px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+
+color: rgba(0, 0, 0, 0.65);
+
+}
+.classifysavebtn{
+position: absolute;
+width: 71px;
+height: 25px;
+left: 64px;
+top: 71px;
+
+background: rgba(49, 108, 133, 0.82);
+border-radius: 6px;
+}
+.classifyresframe{
+position: absolute;
+width: 652px;
+height: 286px;
+left: 748px;
+top: 285px;
+background: #FFFFFF;
+border-radius: 8px
+}
+.idclassify{
+position: absolute;
+width: 17px;
+height: 18.6px;
+left: 796.58px;
+top: 304.88px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+
+color: #316C85;
+
+}
+.iddivclasify{
+position: absolute;
+width: 30.36px;
+height: 18.6px;
+left: 35.22px;
+top: 21.88px;
+}
+.idcategoryclassify{
+position: absolute;
+width: 69.22px;
+height: 15.32px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+color: #316C85;
+}
+.ten{
+position: absolute;
+width: 905px;
+height: 90.8px;
+left: 493px;
+top: 249.13px;
+
+background: #FFFFFF;
+border-radius: 8px;
+}
+.redflagimg{
+width: 70.57px;
+height: 67.87px;
+left: 515.49px;
+top: 261.05px;
+filter: drop-shadow(0px 1px 1px rgba(0, 0, 0, 0.25));
+border-radius: 29px;
+}
+.redflaglabel{
+    position: absolute;
+width: 43.59px;
+height: 13.76px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+
+color: #316C85;
+
+}
+.redflagvalue{
+position: absolute;
+width: 75.76px;
+height: 12.84px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+
+color: #000000;
+
+}
+.residentlist{
+    
+position: absolute;
+width: 904px;
+height: 658px;
+left: 495px;
+top: 234px;
+
+background: #FFFFFF;
+border-radius: 8px;
+}
+.residentlistline{
+    position: absolute;
+width: 904.34px;
+height: 0px;
+left: 0px;
+top: 61.05px;
+
+border: 1px solid rgba(193, 197, 199, 0.31);
+transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.residentlistbtn{
+position: absolute;
+width: auto;
+height: 16.04px;
+
+border-radius: 3px;
+}
+.residentlistpagenation{
+    
+position: absolute;
+width: 549px;
+height: 23px;
+left: 610px;
+top: 900px;
+}
+.residentlistpagedesc{
+    position: absolute;
+width: 230px;
+height: 19px;
+
+top: 668px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.generalsettingsbtn{
+position: absolute;
+width: 142.86px;
+height: 40px;
+
+color: #316C85;
+font-family: 'Inter';
+font-style: normal;
+border: 1px solid #316C85;
+border-radius: 7px;
+}
+.generalsettingsview{
+    
+position: absolute;
+width: 1026px;
+height: 668px;
+left: 436px;
+top: 262px;
+
+background: #FFFFFF;
+border-radius: 36px;
+}
+
+.generalsettingsubheader{
+    
+position: absolute;
+width: 230.95px;
+height: 33.18px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+.generalsettingheader{
+position: absolute;
+height: 76.98px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+color: #000000;
+
+}
+.generalsettingcard{
+    position: absolute;
+width: px;
+height: px;
+
+background: #FFFFFF;
+border-radius: 36px;
+}
+.emailheader{
+position: absolute;
+width: 197px;
+height: 25px;
+left: 278px;
+top: 16px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+color: #316C85;
+}
+.emailfields1{
+position: absolute;
+width: 125px;
+height: 27px;
+
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+}
+.emailinputfields{
+box-sizing: border-box;
+position: absolute;
+width: 612px;
+height: 51px;
+background: #FBFBFB;
+border: 0.5px solid #000000;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.44);
+border-radius: 3px;
+}
+.radioemailfields{
+    position: absolute;
+width: 198px;
+height: 27px;
+left: 276px;
+top: 568px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: #316C85;
+}
+.smshistorydiv{
+position: absolute;
+width: 929px;
+height: 656px;
+left: 466px;
+
+}
+.smshistoryitem{
+    
+position: absolute;
+width: 929px;
+height: 99px;
+
+background: #FFFFFF;
+border-radius: 8px;
+}
+.smshistorymsgicon{
+    left: 12.52px;
+    position:relative;
+    top: 27px;
+}
+.smshistoryheader{
+    
+
+position: absolute;
+width: 52.35px;
+height: 14px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+color: #316C85;
+}
+.historysubheader{
+    
+position: absolute;
+width: 144.74px;
+height: 16px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+
+color: #000000;
+
+}
+.historymsgtime{
+position: absolute;
+height: 14px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 10px;
+line-height: 14px;
+/* identical to box height */
+/* Primary */
+color: #316C85;
+}
+.historydelbtn{
+    top: 42px;
+    left: 833.69px;
+    background-color: crimson;
+    position: absolute;
+}
+.adduserparagraph{
+    
+position: absolute;
+height: 31px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 23px;
+line-height: 31px;
+
+color: #000000;
+}
+.adduserinput{
+    box-sizing: border-box;
+position: absolute;
+width: 546px;
+height: 51px;
+background: #FBFBFB;
+border: 1px solid #000000;
+border-radius: 3px;
+}
+.adduserbtn{
+    
+position: absolute;
+width: 160px;
+height: 40px;
+left: 249px;
+top: 611px;
+
+background: #316C85;
+border-radius: 7px;
 }
